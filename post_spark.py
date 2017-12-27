@@ -11,7 +11,7 @@ requests.packages.urllib3.disable_warnings()
 CONTROLLER = "198.18.129.100"
 
 # MISSION: Assign your authentication token obtained from Spark's Developer page
-AUTH = "MjEzNDc4OWQtMzE2Yi00MjAyLThmMzUtYjYxZDhkOTA1OTUxNzhlNzg1ZGYtMTJl"
+AUTH = "Spark auth token goes here"
 
 # Users should use Python3; but Python2 will work with this fix
 try:
